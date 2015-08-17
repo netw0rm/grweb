@@ -1,0 +1,20 @@
+# NODE MOD
+node_modules
+
+# IDE
+.idea
+*.iml
+*.ipr
+*.iws
+
+# GRADLE
+.gradle
+gradle
+gradlew
+gradlew.bat
+
+# BUILD
+build
+
+# BOWER
+gulp/assets/lib
